@@ -47,6 +47,7 @@ interactivos, sin incluir gráficos ni conexión a base de datos.
  **Nota:** Se limita a una **interfaz por consola** con menús de texto interactivos.  
  
 ## 1.5. CASO
+El cliente necesita una gestion de todo su negocio asi que vamos hacer una gestion de tareas.
 
 La gestión de tareas en un restaurante puede ser un desafío constante: coordinar al personal, organizar pedidos, supervisar inventarios y asegurar un servicio eficiente requiere de un sistema claro y funcional. Este proyecto surge con el propósito de ofrecer una solución sencilla pero efectiva que facilite la organización diaria de las actividades dentro del restaurante.
 
