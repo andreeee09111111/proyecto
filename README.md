@@ -21,7 +21,7 @@
 6. [Pruebas](#6-pruebas)  
 7. [Resultados de pruebas](#7-resultados-de-pruebas)  
 8. [Glosario de términos](#8-glosario-de-términos)
-9. [Diagrama](#9-diagrama)
+9. [Diagramas](#9-diagramas)
 10. [Conclusión](#10-conclusión)
 11. [Pasos del proyecto](#11-pasos-del-proyecto)  
 12. [Rúbrica de evaluación](#12-rúbrica-de-evaluación)  
@@ -176,7 +176,7 @@ java main.RestauranteApp
 - **Consola:** interfaz de texto.  
 
 ---
-## 9. Diagrama
+## 9. Diagramas
 <img width="921" height="380" alt="image" src="https://github.com/user-attachments/assets/9f3970ca-e101-4303-9460-9ea437cfeedc" />
 ---
 
