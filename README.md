@@ -179,9 +179,7 @@ java main.RestauranteApp
 ## 9. Diagramas
 <img width="921" height="380" alt="image" src="https://github.com/user-attachments/assets/9f3970ca-e101-4303-9460-9ea437cfeedc" />
 
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/84e74217-b0de-4603-8c85-6f09d2cfe606" />
-
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/4c4fc35b-690e-430a-b3cc-3d7850a3cce5" />
+<img width="1280" height="1052" alt="image" src="https://github.com/user-attachments/assets/1615d301-3362-4d1c-9b5c-3b1be8e30616" />
 
 
 ---
