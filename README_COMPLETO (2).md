@@ -85,13 +85,6 @@ El uso de **estructuras de datos** permite organizar las tareas de acuerdo con s
 - `RestaurantePro`: versión extendida con varias estructuras.  
 - `Main`: punto de inicio de la aplicación.  
 
-### Diagrama conceptual (simplificado)
-```
-Main → inicia RestaurantePro o RestauranteAppGUI
-RestaurantePro → usa PilaTareas / ColaTareas / ColaPrioridades / ListaTareas
-RestauranteAppGUI → interfaz gráfica con menús
-Tarea y Empleado → entidades base
-```
 
 ---
 
