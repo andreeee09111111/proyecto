@@ -158,7 +158,9 @@ Versión con **interfaz gráfica en Java Swing**.
 ### `Main`  
 Clase principal del proyecto.  
 - Punto de entrada al programa.  
-- Permite iniciar tanto la versión **consola** (`RestaurantePro`) como la versión **gráfica** (`RestauranteAppGUI`).  
+- Permite iniciar tanto la versión **consola** (`RestaurantePro`) como la versión **gráfica** (`RestauranteAppGUI`).
+
+---
 
 
 ## 5. Flujo del programa
