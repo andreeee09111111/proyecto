@@ -200,7 +200,9 @@ java Codigo\ del\ avance\ del\ proyecto\ Estructura\ de\ datos3.RestauranteAppGU
 ---
 
 ## 9. Diagramas  
-*(Aquí se incluyen los diagramas ya mostrados anteriormente y los actualizados con ColaPrioridades, Empleado y GUI)*  
+
+<img width="1280" height="1052" alt="image" src="https://github.com/user-attachments/assets/202a4b3c-9ac9-4015-83d9-33cfad3be2a1" />
+
 
 ---
 
