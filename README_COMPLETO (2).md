@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Avanzado%20Proyecto-success) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
+<img width="866" height="650" alt="image" src="https://github.com/user-attachments/assets/a990e1ac-c300-4c9c-b54a-fc1ab2062eeb" />
+
 **Materia:** Estructura de Datos  
 **Maestra:** Blanca Aracely Aranda Machorro  
 **Fecha:** 3/10/25
@@ -23,9 +25,8 @@
 11. [Diagramas](#11-diagramas)  
 12. [Conclusión](#12-conclusión)  
 13. [Pasos del proyecto](#13-pasos-del-proyecto)  
-14. [Mejoras futuras](#14-mejoras-futuras)  
-15. [Rúbrica de evaluación](#15-rúbrica-de-evaluación)  
-16. [Autores](#16-autores)  
+14. [Rúbrica de evaluación](#14-rúbrica-de-evaluación)  
+15. [Autores](#15-autores)  
 
 ---
 
@@ -248,7 +249,10 @@ java RestauranteAppGUI
 ---
 
 ## 11. Diagramas
-*(Agregar aquí diagramas UML o de flujo si están disponibles).*  
+
+<img width="921" height="380" alt="image" src="https://github.com/user-attachments/assets/9f3970ca-e101-4303-9460-9ea437cfeedc" />
+
+<img width="1280" height="1052" alt="image" src="https://github.com/user-attachments/assets/1615d301-3362-4d1c-9b5c-3b1be8e30616" />
 
 ---
 
@@ -268,19 +272,11 @@ java RestauranteAppGUI
 5. Separar versiones: consola y GUI.  
 6. Probar con casos de uso reales.  
 7. Documentar resultados y aprendizajes.  
+  
 
 ---
 
-## 14. Mejoras futuras
-- Agregar **persistencia de datos** con archivos o base de datos.  
-- Mejorar la **interfaz gráfica** con más opciones visuales.  
-- Incluir un **módulo de reportes** (tareas pendientes, completadas, estadísticas).  
-- Implementar un sistema de **usuarios y roles**.  
-- Ampliar el sistema para gestión completa de inventarios y pedidos.  
-
----
-
-## 15. Rúbrica de evaluación
+## 14. Rúbrica de evaluación
 | Criterio | Puntos |
 |----------|--------|
 | Alcance y análisis | 15 |
@@ -292,7 +288,7 @@ java RestauranteAppGUI
 
 ---
 
-## 16. Autores
+## 15. Autores
 - André  
 - Jevick  
 - Jordán  
