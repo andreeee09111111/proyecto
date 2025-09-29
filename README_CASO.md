@@ -10,7 +10,7 @@
 **Fecha:** 3/10/25  
 
 
-![image1](https://github.com/user-attachments/assets/85ea3cf2-5c1e-47fa-b50d-0ea0094870f5)
+   ![image1](https://github.com/user-attachments/assets/85ea3cf2-5c1e-47fa-b50d-0ea0094870f5)
 
 
 
