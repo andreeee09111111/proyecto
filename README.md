@@ -31,10 +31,10 @@
 12. [Diagrama1](./diagrama1.png)
 13. [Diagrama2](./diagrama2.png)
 14. [Diagrama2](./diagrama3.png)   
-15. [Conclusión](#13-conclusión)  
-16. [Pasos del proyecto](#14-pasos-del-proyecto)  
-17. [Rúbrica de evaluación](#15-rúbrica-de-evaluación)  
-18. [Autores](#16-autores)  
+15. [Conclusión](#15-conclusión)  
+16. [Pasos del proyecto](#15-pasos-del-proyecto)  
+17. [Rúbrica de evaluación](#16-rúbrica-de-evaluación)  
+18. [Autores](#18-autores)  
 
 ---
 
