@@ -28,7 +28,7 @@
 9. [Pruebas](#9-pruebas)  
 10. [Resultados de pruebas](#10-resultados-de-pruebas)  
 11. [Glosario de términos](#11-glosario-de-términos)  
-12. [Diagramas](#12-diagramas)  
+12. [Diagramas](./diagramas)   
 13. [Conclusión](#13-conclusión)  
 14. [Pasos del proyecto](#14-pasos-del-proyecto)  
 15. [Rúbrica de evaluación](#15-rúbrica-de-evaluación)  
