@@ -10,7 +10,8 @@
 **Fecha:** 3/10/25  
 
 
-<img width="796" height="1024" alt="image" src="https://github.com/user-attachments/assets/899087ae-f555-44e0-9fba-035dce23f395" />
+![image1](https://github.com/user-attachments/assets/85ea3cf2-5c1e-47fa-b50d-0ea0094870f5)
+
 
 
 ---
