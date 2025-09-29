@@ -40,7 +40,7 @@
 
 ## 1. Caso
 
-Un restaurante llamado Restauurant Robert nos pidios un programa con los siguientes requesitos.
+Un restaurante llamado Restaurant Robert nos pidios un programa con los siguientes requesitos.
 
 ### Requesitos del cliente 
 
