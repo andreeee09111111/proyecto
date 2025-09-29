@@ -260,6 +260,7 @@ java RestauranteAppGUI
 
 ## 12. Diagramas
 
+<img width="3840" height="1451" alt="Untitled diagram _ Mermaid Chart-2025-09-29-035009" src="https://github.com/user-attachments/assets/1256fb49-3e1e-4313-a635-680e3679f084" />
 
 
 ---
