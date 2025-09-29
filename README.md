@@ -263,6 +263,10 @@ java RestauranteAppGUI
 <img width="3840" height="1451" alt="Untitled diagram _ Mermaid Chart-2025-09-29-035009" src="https://github.com/user-attachments/assets/1256fb49-3e1e-4313-a635-680e3679f084" />
 
 
+<img width="2098" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-29-040328" src="https://github.com/user-attachments/assets/24ee8c39-bb2d-4a31-bae6-03376df5df6f" />
+
+
+
 ---
 
 ## 13. Conclusión
