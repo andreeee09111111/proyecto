@@ -296,8 +296,7 @@ java RestauranteAppGUI
 ---
 
 ## 16. Autores
-- André  
-- Jevick  
-- Jordán  
-- Roberto  
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/397f190d-fdf8-4577-a523-2385b981336b" />
+
 
