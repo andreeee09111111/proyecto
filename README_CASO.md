@@ -32,6 +32,9 @@
 ---
 
 ## 1. Caso
+
+##Requesitos del cliente 
+
 *Miren, lo que necesito es algo que ponga orden en este caos. Quiero un sistema donde, si algo es súper urgente —como un derrame en la mesa 5—, eso vaya al principio de una lista especial y no se pueda ignorar. Pero si es una tarea grande y que lleva tiempo —como limpiar la bodega—, quiero poder asignársela a alguien y que esa tarea espere su turno, aunque haya cosas más pequeñas que salgan antes. Además, lo más importante es que las tareas tengan un orden lógico: si no se hace el 'A', el 'B' no puede empezar. Y si intento mandar a hacer el 'B' antes que el 'A', ¡que el sistema me diga que no! Tiene que ser fácil de usar y que me muestre de un vistazo qué está haciendo cada empleado para que nadie se me quede quieto.*  
 
 ---
