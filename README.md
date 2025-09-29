@@ -256,7 +256,6 @@ java RestauranteAppGUI
 - **Empleado:** entidad que recibe asignación de tareas.  
 - **GUI:** interfaz gráfica de usuario.  
 
----
 
 
 ---
