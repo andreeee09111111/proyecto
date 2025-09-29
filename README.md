@@ -262,7 +262,7 @@ java RestauranteAppGUI
 
 ---
 
-## 13. Conclusión
+## 15. Conclusión
 - **André:** Aprendí a aplicar pilas, colas, listas y colas de prioridad en un sistema real.  
 - **Jevick:** Entendí cómo combinar estructuras de datos con GUI en Java.  
 - **Jordán:** Reforcé conceptos de diseño modular y programación en capas.  
@@ -270,7 +270,7 @@ java RestauranteAppGUI
 
 ---
 
-## 14. Pasos del proyecto
+## 16. Pasos del proyecto
 1. Definir el alcance del sistema.  
 2. Analizar las necesidades del restaurante.  
 3. Diseñar clases y estructuras de datos.  
@@ -281,7 +281,7 @@ java RestauranteAppGUI
 
 ---
 
-## 15. Rúbrica de evaluación
+## 17. Rúbrica de evaluación
 | Criterio | Puntos |
 |----------|--------|
 | Alcance y análisis | 15 |
@@ -293,7 +293,7 @@ java RestauranteAppGUI
 
 ---
 
-## 16. Autores
+## 18. Autores
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/397f190d-fdf8-4577-a523-2385b981336b" />
 
